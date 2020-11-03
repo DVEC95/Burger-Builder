@@ -17,3 +17,4 @@ Created as part of Maximilian Schwarzmüller's [React: The Complete Guide](https
   * Multi-page views and routing.
   * Form validation.
   * Reformating to React Hooks.
+  * Deployment.
